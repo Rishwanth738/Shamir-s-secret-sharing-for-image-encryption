@@ -52,7 +52,8 @@ Shares: [(x1, y1), (x2, y2), ...]
 Combining shares...
 Reconstructed Secret: <Pixel Values>
 ```
-![Example Output](image.png)
+![Example Output](![image](https://github.com/user-attachments/assets/b41e406d-957c-4f02-9e3e-930041b275b7)
+)
 
 ## **Notes**
 - The `FIELD_SIZE` is set to **257** to ensure modular arithmetic.
